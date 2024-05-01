@@ -1,0 +1,306 @@
+WEBVTT
+
+1
+00:00:00.400 --> 00:00:03.400
+- A toddler can tell the
+difference between a cat and a dog
+
+2
+00:00:03.400 --> 00:00:05.570
+with only a few examples.
+
+3
+00:00:05.570 --> 00:00:08.770
+Now what if that child
+could find and count
+
+4
+00:00:08.770 --> 00:00:10.610
+all the people on social media
+
+5
+00:00:10.610 --> 00:00:12.390
+who are wearing your sunglasses
+
+6
+00:00:12.390 --> 00:00:14.030
+or holding your energy drink
+
+7
+00:00:14.030 --> 00:00:16.380
+or had your car in the background?
+
+8
+00:00:16.380 --> 00:00:18.600
+See how that might be
+useful for marketing.
+
+9
+00:00:18.600 --> 00:00:23.020
+Artificial intelligence and
+cameras give us computer vision.
+
+10
+00:00:23.020 --> 00:00:26.370
+A whole new way of interacting
+with prospects and customers,
+
+11
+00:00:26.370 --> 00:00:28.260
+and understanding this technology,
+
+12
+00:00:28.260 --> 00:00:30.680
+its limitations and possibilities,
+
+13
+00:00:30.680 --> 00:00:33.440
+will give you a leg up on the competition.
+
+14
+00:00:33.440 --> 00:00:36.560
+Like most AI, computer
+vision isn't perfect.
+
+15
+00:00:36.560 --> 00:00:38.450
+It's great at recognizing things,
+
+16
+00:00:38.450 --> 00:00:40.050
+but don't for a minute think,
+
+17
+00:00:40.050 --> 00:00:42.820
+that it understands what it sees.
+
+18
+00:00:42.820 --> 00:00:44.920
+Can it tell a cat from a dog?
+
+19
+00:00:44.920 --> 00:00:46.400
+Most of the time.
+
+20
+00:00:46.400 --> 00:00:48.240
+But small things can throw it off
+
+21
+00:00:48.240 --> 00:00:51.390
+because the computer is not
+making sense of the world,
+
+22
+00:00:51.390 --> 00:00:52.870
+it's looking at pixels
+
+23
+00:00:52.870 --> 00:00:55.610
+and deciding that these
+shapes and these shades
+
+24
+00:00:55.610 --> 00:00:58.530
+have a higher probability of being a cat.
+
+25
+00:00:58.530 --> 00:01:00.480
+If the cat is looking the wrong way,
+
+26
+00:01:00.480 --> 00:01:03.440
+has its ears down, is curled up asleep,
+
+27
+00:01:03.440 --> 00:01:05.610
+the computer's confused.
+
+28
+00:01:05.610 --> 00:01:07.060
+That's the catch.
+
+29
+00:01:07.060 --> 00:01:10.000
+You have to show the computer
+tens of thousands of pictures
+
+30
+00:01:10.000 --> 00:01:14.170
+that you have labeled cats
+before it can do its thing.
+
+31
+00:01:14.170 --> 00:01:17.420
+This is called supervised learning.
+
+32
+00:01:17.420 --> 00:01:21.080
+You know those Captcha prove
+you're not a robot logins,
+
+33
+00:01:21.080 --> 00:01:24.800
+that's you labeling the
+data for computer vision.
+
+34
+00:01:24.800 --> 00:01:26.090
+You are teaching the computer
+
+35
+00:01:26.090 --> 00:01:27.840
+how to recognize the street sign,
+
+36
+00:01:27.840 --> 00:01:29.970
+the crosswalk, the traffic light.
+
+37
+00:01:29.970 --> 00:01:32.810
+Don't you think self-driving
+cars would want to know?
+
+38
+00:01:32.810 --> 00:01:35.720
+The technology can get
+pretty sophisticated,
+
+39
+00:01:35.720 --> 00:01:39.980
+even giving us facial recognition
+and augmented reality.
+
+40
+00:01:39.980 --> 00:01:42.610
+The computer can recognize
+that your face is a face
+
+41
+00:01:42.610 --> 00:01:44.860
+and that it's your face.
+
+42
+00:01:44.860 --> 00:01:47.400
+You can unlock your phone
+just by looking at it.
+
+43
+00:01:47.400 --> 00:01:50.600
+The computer can also identify
+the features of your face
+
+44
+00:01:50.600 --> 00:01:53.690
+and the result is all those
+silly Snapchat filters.
+
+45
+00:01:53.690 --> 00:01:55.650
+You've probably played
+with Zoom backgrounds.
+
+46
+00:01:55.650 --> 00:01:57.880
+Yup, computer vision.
+
+47
+00:01:57.880 --> 00:02:00.480
+So what are the
+possibilities for marketing?
+
+48
+00:02:00.480 --> 00:02:02.740
+Depending on your product or service,
+
+49
+00:02:02.740 --> 00:02:05.910
+computer vision can open up
+new avenues for connecting you
+
+50
+00:02:05.910 --> 00:02:07.720
+with your customers and prospects.
+
+51
+00:02:07.720 --> 00:02:10.450
+You might let people
+view your virtual product
+
+52
+00:02:10.450 --> 00:02:12.230
+in their actual home.
+
+53
+00:02:12.230 --> 00:02:15.000
+Maybe you let people try
+on virtual hairstyles
+
+54
+00:02:15.000 --> 00:02:17.880
+or lipstick colors or
+1,000 different outfits,
+
+55
+00:02:17.880 --> 00:02:20.480
+or overlay additional
+information on your products
+
+56
+00:02:20.480 --> 00:02:21.940
+when people view them through
+
+57
+00:02:21.940 --> 00:02:25.320
+their phones' camera augmented reality,
+
+58
+00:02:25.320 --> 00:02:27.860
+or you could automatically
+recognize your loyal customers
+
+59
+00:02:27.860 --> 00:02:30.400
+when they walk in the
+door, facial recognition.
+
+60
+00:02:30.400 --> 00:02:32.490
+What used to just be science fiction
+
+61
+00:02:32.490 --> 00:02:35.630
+is now a tool for the
+marketing department.
+
+62
+00:02:35.630 --> 00:02:37.630
+How do you interact with your customers?
+
+63
+00:02:37.630 --> 00:02:39.100
+Brainstorm with your team.
+
+64
+00:02:39.100 --> 00:02:42.440
+Come up with all the ways
+computer vision might be useful
+
+65
+00:02:42.440 --> 00:02:44.730
+and figure out which
+ones are worth testing.
+
+66
+00:02:44.730 --> 00:02:48.610
+Then when some Chief something
+or other officer asks
+
+67
+00:02:48.610 --> 00:02:51.310
+if the marketing department is using AI,
+
+68
+00:02:51.310 --> 00:02:53.573
+you can assure them that
+you're on top of it.
