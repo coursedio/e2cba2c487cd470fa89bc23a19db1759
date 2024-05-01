@@ -1,0 +1,354 @@
+WEBVTT
+
+1
+00:00:00.590 --> 00:00:04.470
+- It's a classic problem, buy or build.
+
+2
+00:00:04.470 --> 00:00:06.160
+Some people are do it yourselfers
+
+3
+00:00:06.160 --> 00:00:08.800
+and prefer to fix that
+leaky faucet themselves,
+
+4
+00:00:08.800 --> 00:00:10.550
+to be sure it's done right.
+
+5
+00:00:10.550 --> 00:00:14.090
+And some, like me, prefer to
+have a professional plumber
+
+6
+00:00:14.090 --> 00:00:15.220
+fix that leaky faucet
+
+7
+00:00:15.220 --> 00:00:18.810
+because I want to make
+sure it's done right.
+
+8
+00:00:18.810 --> 00:00:20.010
+When it comes to succeeding
+
+9
+00:00:20.010 --> 00:00:22.310
+with artificial intelligence in marketing,
+
+10
+00:00:22.310 --> 00:00:24.370
+do you hire a bunch of data scientists
+
+11
+00:00:24.370 --> 00:00:27.350
+to build an AI system from scratch?
+
+12
+00:00:27.350 --> 00:00:29.000
+Do you assemble a variety
+
+13
+00:00:29.000 --> 00:00:31.130
+of AI components and create your own
+
+14
+00:00:31.130 --> 00:00:34.610
+artificially intelligent
+marketing ecosystem?
+
+15
+00:00:34.610 --> 00:00:37.780
+Or do you license some pre-built platform
+
+16
+00:00:37.780 --> 00:00:40.270
+that promises to do it all for you?
+
+17
+00:00:40.270 --> 00:00:42.700
+I want to give you a couple
+of things to consider
+
+18
+00:00:42.700 --> 00:00:46.170
+when answering the question, buy or build.
+
+19
+00:00:46.170 --> 00:00:48.410
+If you work in a huge corporation,
+
+20
+00:00:48.410 --> 00:00:50.940
+you likely already have scientists
+
+21
+00:00:50.940 --> 00:00:55.310
+working on AI for finance,
+human resources, manufacturing.
+
+22
+00:00:55.310 --> 00:00:57.520
+They might have data sciences on board
+
+23
+00:00:57.520 --> 00:00:58.810
+because their brand,
+
+24
+00:00:58.810 --> 00:01:01.520
+their image in the marketplace demands it.
+
+25
+00:01:01.520 --> 00:01:03.830
+Amazon, Google, IBM, Microsoft,
+
+26
+00:01:03.830 --> 00:01:06.130
+they can't outsource their brain trust.
+
+27
+00:01:06.130 --> 00:01:08.260
+They want to sell this stuff to others,
+
+28
+00:01:08.260 --> 00:01:10.770
+so they have to use their own technology.
+
+29
+00:01:10.770 --> 00:01:12.710
+If you work in a big corporation,
+
+30
+00:01:12.710 --> 00:01:15.400
+it's likely they already have
+teams of people assembled
+
+31
+00:01:15.400 --> 00:01:17.720
+to master new methods like AI
+
+32
+00:01:17.720 --> 00:01:20.880
+to increase the company's
+overall capabilities.
+
+33
+00:01:20.880 --> 00:01:23.330
+They might not have tackled marketing yet.
+
+34
+00:01:23.330 --> 00:01:26.775
+Come up with a pitch for
+why they should spend
+
+35
+00:01:26.775 --> 00:01:27.650
+some time building AI for marketing,
+
+36
+00:01:27.650 --> 00:01:29.250
+and you'll get their attention.
+
+37
+00:01:29.250 --> 00:01:31.170
+If you're a small company,
+
+38
+00:01:31.170 --> 00:01:32.240
+there's no way you can afford
+
+39
+00:01:32.240 --> 00:01:34.520
+to hire even half a day to scientist.
+
+40
+00:01:34.520 --> 00:01:36.900
+So just grab the off the shelf system
+
+41
+00:01:36.900 --> 00:01:38.840
+that solves whatever particular problem
+
+42
+00:01:38.840 --> 00:01:41.350
+you're facing at the moment.
+
+43
+00:01:41.350 --> 00:01:43.900
+If your organization is
+somewhere in the middle,
+
+44
+00:01:43.900 --> 00:01:46.260
+you'll need to consider
+your corporate culture
+
+45
+00:01:46.260 --> 00:01:48.660
+and balance the need for instant results
+
+46
+00:01:48.660 --> 00:01:51.570
+with the need to build internal know-how.
+
+47
+00:01:51.570 --> 00:01:52.870
+If you have the time,
+
+48
+00:01:52.870 --> 00:01:55.870
+the political capital,
+and the competitive need,
+
+49
+00:01:55.870 --> 00:01:58.600
+by all means, go out and
+hire some data scientists.
+
+50
+00:01:58.600 --> 00:02:00.550
+Just be sure your budget can handle it,
+
+51
+00:02:00.550 --> 00:02:03.360
+and that you can afford the time it takes
+
+52
+00:02:03.360 --> 00:02:07.130
+to find those rare individuals
+and get them up to speed.
+
+53
+00:02:07.130 --> 00:02:09.920
+Now be aware you may
+already be using systems
+
+54
+00:02:09.920 --> 00:02:12.920
+that have AI built in.
+
+55
+00:02:12.920 --> 00:02:16.130
+IBM has plugged Watson into
+all the software they sell.
+
+56
+00:02:16.130 --> 00:02:19.380
+Adobe has Sensei for
+Photoshop and Adobe Analytics.
+
+57
+00:02:19.380 --> 00:02:20.700
+Salesforce has Einstein.
+
+58
+00:02:20.700 --> 00:02:24.010
+HubSpot has their content strategy module.
+
+59
+00:02:24.010 --> 00:02:27.760
+So your first decision
+is based on company size.
+
+60
+00:02:27.760 --> 00:02:29.780
+Giant corporation, do some digging
+
+61
+00:02:29.780 --> 00:02:31.860
+and find your data science team.
+
+62
+00:02:31.860 --> 00:02:35.290
+Find out what software your
+company is already using.
+
+63
+00:02:35.290 --> 00:02:36.600
+You'll be surprised how many people
+
+64
+00:02:36.600 --> 00:02:38.960
+are using different tools
+in different departments
+
+65
+00:02:38.960 --> 00:02:40.760
+and don't know about each other.
+
+66
+00:02:40.760 --> 00:02:44.165
+And finally, but perhaps most importantly,
+
+67
+00:02:44.165 --> 00:02:46.580
+ask yourself if you want to do a deep dive
+
+68
+00:02:46.580 --> 00:02:49.130
+and learn how to build AI systems.
+
+69
+00:02:49.130 --> 00:02:51.470
+Do you want to bring
+together a variety of tools
+
+70
+00:02:51.470 --> 00:02:54.210
+into your marketing,
+computing environment?
+
+71
+00:02:54.210 --> 00:02:56.710
+You could build your own martech stack,
+
+72
+00:02:56.710 --> 00:02:58.210
+or do you just want to increase
+
+73
+00:02:58.210 --> 00:02:59.720
+your return on marketing spend,
+
+74
+00:02:59.720 --> 00:03:01.540
+make your email campaigns more effective
+
+75
+00:03:01.540 --> 00:03:04.020
+or boost customer retention?
+
+76
+00:03:04.020 --> 00:03:06.500
+If so, there are a lot of venture capital
+
+77
+00:03:06.500 --> 00:03:08.620
+backed tools on the market
+
+78
+00:03:08.620 --> 00:03:11.090
+you can pick up and run with right away.
+
+79
+00:03:11.090 --> 00:03:13.830
+Let your personal interest
+in artificial intelligence
+
+80
+00:03:13.830 --> 00:03:16.650
+be your guide and you will
+be much more effective
+
+81
+00:03:16.650 --> 00:03:20.210
+in getting AI to help
+you do marketing faster,
+
+82
+00:03:20.210 --> 00:03:22.563
+cheaper, and at scale.
