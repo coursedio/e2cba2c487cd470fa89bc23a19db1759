@@ -1,0 +1,316 @@
+WEBVTT
+
+1
+00:00:00.170 --> 00:00:03.210
+- In 1993, Don Peppers and
+Martha Rogers wrote a book
+
+2
+00:00:03.210 --> 00:00:05.770
+called "The One to One Future".
+
+3
+00:00:05.770 --> 00:00:07.340
+They only mention the internet in passing,
+
+4
+00:00:07.340 --> 00:00:09.890
+because it was only 1993,
+
+5
+00:00:09.890 --> 00:00:12.100
+but they laid out the
+concept of using computers
+
+6
+00:00:12.100 --> 00:00:15.460
+to communicate with individuals at scale.
+
+7
+00:00:15.460 --> 00:00:19.490
+The concept was to treat each
+person as a unique individual
+
+8
+00:00:19.490 --> 00:00:21.450
+even though you're dealing with thousands
+
+9
+00:00:21.450 --> 00:00:23.330
+of people at the same time.
+
+10
+00:00:23.330 --> 00:00:24.700
+The idea is straightforward.
+
+11
+00:00:24.700 --> 00:00:26.710
+When somebody shows up on your website,
+
+12
+00:00:26.710 --> 00:00:28.450
+you show them whatever pictures
+
+13
+00:00:28.450 --> 00:00:31.340
+and text might be the
+most useful or persuasive
+
+14
+00:00:31.340 --> 00:00:32.810
+in order to create a fabulous
+
+15
+00:00:32.810 --> 00:00:35.820
+personalized customer experience.
+
+16
+00:00:35.820 --> 00:00:38.150
+Everybody wants to be
+treated as an individual.
+
+17
+00:00:38.150 --> 00:00:40.450
+Everybody wants to be
+recognized and remembered
+
+18
+00:00:40.450 --> 00:00:43.430
+and have their specific
+needs kept in mind.
+
+19
+00:00:43.430 --> 00:00:45.477
+It's why we like going back
+to the same restaurant.
+
+20
+00:00:45.477 --> 00:00:47.197
+"Would you like the usual madam?"
+
+21
+00:00:47.197 --> 00:00:50.040
+"Why yes, I would, thank you."
+
+22
+00:00:50.040 --> 00:00:52.050
+I want to show you how machine learning
+
+23
+00:00:52.050 --> 00:00:55.640
+can help your company get
+better at personalization.
+
+24
+00:00:55.640 --> 00:00:58.160
+You'll be able to convert
+more prospects into customers,
+
+25
+00:00:58.160 --> 00:00:59.640
+make your customers happier,
+
+26
+00:00:59.640 --> 00:01:03.080
+make your company more profitable.
+
+27
+00:01:03.080 --> 00:01:06.900
+The non-AI version starts
+with you sitting in a room
+
+28
+00:01:06.900 --> 00:01:08.390
+with the smartest people in your company
+
+29
+00:01:08.390 --> 00:01:10.380
+and coming up with complex rules
+
+30
+00:01:10.380 --> 00:01:12.720
+for what to show which people.
+
+31
+00:01:12.720 --> 00:01:14.920
+If your customer lives
+in a southern state,
+
+32
+00:01:14.920 --> 00:01:17.340
+has purchased this pair of running shoes,
+
+33
+00:01:17.340 --> 00:01:21.040
+and has recently visited a
+competitive running shoe website,
+
+34
+00:01:21.040 --> 00:01:23.720
+then you might want to show
+them this particular content
+
+35
+00:01:23.720 --> 00:01:25.710
+on the landing page, because you figure
+
+36
+00:01:25.710 --> 00:01:27.920
+they're looking for a new pair of shoes,
+
+37
+00:01:27.920 --> 00:01:31.050
+and you can guess which
+ones they'll like the best.
+
+38
+00:01:31.050 --> 00:01:35.200
+Or if your customer also purchased
+this other pair of shoes,
+
+39
+00:01:35.200 --> 00:01:37.930
+and they click on customer support,
+
+40
+00:01:37.930 --> 00:01:39.880
+then you want to take them to the FAQ,
+
+41
+00:01:39.880 --> 00:01:41.480
+frequently asked questions page,
+
+42
+00:01:41.480 --> 00:01:44.610
+about that shoe failing in
+the southern summer heat,
+
+43
+00:01:44.610 --> 00:01:47.240
+because you can guess why they showed up.
+
+44
+00:01:47.240 --> 00:01:49.250
+You can spend the rest
+of your career coming up
+
+45
+00:01:49.250 --> 00:01:50.890
+with scenarios like this.
+
+46
+00:01:50.890 --> 00:01:53.110
+You could come up with
+elaborate flowcharts
+
+47
+00:01:53.110 --> 00:01:55.640
+about if they do this, then we think that.
+
+48
+00:01:55.640 --> 00:01:57.750
+Some of it is professional experience
+
+49
+00:01:57.750 --> 00:02:01.210
+garnered over time, and the
+rest is just conjecture.
+
+50
+00:02:01.210 --> 00:02:04.820
+But I want you to let that old way go.
+
+51
+00:02:04.820 --> 00:02:07.490
+I want you to let machine
+learning watch people
+
+52
+00:02:07.490 --> 00:02:10.310
+coming to your website
+and track as many traits
+
+53
+00:02:10.310 --> 00:02:14.240
+and behaviors as it can,
+and let it try new things.
+
+54
+00:02:14.240 --> 00:02:16.320
+That's how machine learning works.
+
+55
+00:02:16.320 --> 00:02:17.550
+It's how it learns.
+
+56
+00:02:17.550 --> 00:02:18.700
+It tries things.
+
+57
+00:02:18.700 --> 00:02:21.190
+And when something works, it
+tries them again and again,
+
+58
+00:02:21.190 --> 00:02:24.650
+and it improves, it learns.
+
+59
+00:02:24.650 --> 00:02:27.050
+Over time, when somebody
+comes to your website,
+
+60
+00:02:27.050 --> 00:02:29.270
+the algorithm will have
+the best possible content
+
+61
+00:02:29.270 --> 00:02:31.070
+to show them provided you've given
+
+62
+00:02:31.070 --> 00:02:33.330
+the algorithm enough to work with.
+
+63
+00:02:33.330 --> 00:02:35.730
+Start by coming up with
+a variety of personas
+
+64
+00:02:35.730 --> 00:02:39.750
+and scenarios for which you
+create a variety of content.
+
+65
+00:02:39.750 --> 00:02:42.090
+Then you let the machine
+learning algorithm mix
+
+66
+00:02:42.090 --> 00:02:43.830
+and match your text and pictures
+
+67
+00:02:43.830 --> 00:02:46.980
+to show a wide variety of visitors.
+
+68
+00:02:46.980 --> 00:02:50.630
+In time, you'll see that it
+can make real-time decisions
+
+69
+00:02:50.630 --> 00:02:52.440
+to improve the customer experience
+
+70
+00:02:52.440 --> 00:02:55.780
+and make you look like the
+brilliant marketing professional
+
+71
+00:02:55.780 --> 00:02:56.973
+you have become.
