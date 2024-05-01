@@ -1,0 +1,360 @@
+WEBVTT
+
+1
+00:00:00.250 --> 00:00:02.700
+- It's called big data
+because it is more data
+
+2
+00:00:02.700 --> 00:00:04.350
+than a human can wrangle,
+
+3
+00:00:04.350 --> 00:00:07.050
+has more attributes
+than a human can manage,
+
+4
+00:00:07.050 --> 00:00:10.910
+and more permutations than
+the human mind can comprehend.
+
+5
+00:00:10.910 --> 00:00:12.890
+But machine learning is so powerful,
+
+6
+00:00:12.890 --> 00:00:16.410
+because it is so good at
+dimensionality and cardinality.
+
+7
+00:00:16.410 --> 00:00:17.580
+Let me break it down
+
+8
+00:00:17.580 --> 00:00:20.600
+so you will know when machine
+learning would be useful,
+
+9
+00:00:20.600 --> 00:00:22.760
+what kinds of problems
+it's good at solving,
+
+10
+00:00:22.760 --> 00:00:24.010
+and you'll be able to tell
+
+11
+00:00:24.010 --> 00:00:25.830
+when some so-called data scientist
+
+12
+00:00:25.830 --> 00:00:28.180
+is trying to pull the wool over your eyes.
+
+13
+00:00:28.180 --> 00:00:29.820
+You've got a lot of data.
+
+14
+00:00:29.820 --> 00:00:31.820
+Let's say you have a
+hundred thousand customers
+
+15
+00:00:31.820 --> 00:00:32.990
+or even a million.
+
+16
+00:00:32.990 --> 00:00:33.920
+That's great.
+
+17
+00:00:33.920 --> 00:00:36.760
+You can't keep a million
+customers in your head,
+
+18
+00:00:36.760 --> 00:00:39.770
+but an Excel spreadsheet
+can manage that just fine.
+
+19
+00:00:39.770 --> 00:00:41.360
+So let's make it harder.
+
+20
+00:00:41.360 --> 00:00:45.580
+Let's say you know a thousand
+things about a million people,
+
+21
+00:00:45.580 --> 00:00:48.810
+that's a thousand columns
+of things that you know
+
+22
+00:00:48.810 --> 00:00:51.910
+in a database with a
+million rows of customers.
+
+23
+00:00:51.910 --> 00:00:53.360
+If you want to know how many customers
+
+24
+00:00:53.360 --> 00:00:54.860
+are in a given zip code,
+
+25
+00:00:54.860 --> 00:00:58.070
+how many of those are
+subscribed to your email list
+
+26
+00:00:58.070 --> 00:01:01.560
+and have purchased from you
+in the past three months,
+
+27
+00:01:01.560 --> 00:01:03.510
+spreadsheet can still handle that.
+
+28
+00:01:03.510 --> 00:01:05.090
+But if you wanted to know
+
+29
+00:01:05.090 --> 00:01:07.470
+what other patterns
+are present in the data
+
+30
+00:01:07.470 --> 00:01:10.670
+without you having to come
+up with a specific question,
+
+31
+00:01:10.670 --> 00:01:12.740
+you could ask an infinite
+number of interns
+
+32
+00:01:12.740 --> 00:01:14.590
+to look at the data and cross-reference it
+
+33
+00:01:14.590 --> 00:01:16.510
+six ways to Sunday for months
+
+34
+00:01:16.510 --> 00:01:19.260
+and they might not come up
+with something interesting.
+
+35
+00:01:19.260 --> 00:01:22.800
+But machine learning can
+easily handle tens of thousands
+
+36
+00:01:22.800 --> 00:01:25.470
+of columns about millions of customers.
+
+37
+00:01:25.470 --> 00:01:27.500
+That's dimensionality.
+
+38
+00:01:27.500 --> 00:01:32.310
+Each column holds a thing that
+you know about each customer,
+
+39
+00:01:32.310 --> 00:01:33.740
+that's a dimension.
+
+40
+00:01:33.740 --> 00:01:37.330
+And you get to tens of thousands
+of things when you add in
+
+41
+00:01:37.330 --> 00:01:39.890
+behavioral data like social media activity
+
+42
+00:01:39.890 --> 00:01:42.470
+and website visits and past
+purchase and what they said
+
+43
+00:01:42.470 --> 00:01:45.430
+when they call the call center and so on.
+
+44
+00:01:45.430 --> 00:01:48.330
+Lots of dimensions about each person.
+
+45
+00:01:48.330 --> 00:01:50.090
+Then comes cardinality,
+
+46
+00:01:50.090 --> 00:01:53.240
+which is a fancy word for the
+number of possible entries
+
+47
+00:01:53.240 --> 00:01:55.190
+in each dimension.
+
+48
+00:01:55.190 --> 00:01:56.790
+Take age for example,
+
+49
+00:01:56.790 --> 00:01:59.070
+the number of possible
+entries in the age field
+
+50
+00:01:59.070 --> 00:02:03.030
+is somewhere between zero
+and 122, so far as we know.
+
+51
+00:02:03.030 --> 00:02:04.610
+Do they live in California?
+
+52
+00:02:04.610 --> 00:02:07.960
+Ah, only two possible
+answers there, yes or no,
+
+53
+00:02:07.960 --> 00:02:09.870
+really low cardinality.
+
+54
+00:02:09.870 --> 00:02:11.610
+But what's their phone number?
+
+55
+00:02:11.610 --> 00:02:14.280
+If half the people on the
+planet have their own phone,
+
+56
+00:02:14.280 --> 00:02:18.360
+there are 4 billion possibilities
+for that one field alone,
+
+57
+00:02:18.360 --> 00:02:19.940
+that one dimension.
+
+58
+00:02:19.940 --> 00:02:23.510
+Think about your spreadsheet
+as having lots and lots of rows
+
+59
+00:02:23.510 --> 00:02:24.790
+and lots and lots of columns.
+
+60
+00:02:24.790 --> 00:02:26.410
+The rows are the objects of the people,
+
+61
+00:02:26.410 --> 00:02:28.350
+the columns are the
+dimensions or the attributes
+
+62
+00:02:28.350 --> 00:02:29.610
+of what you know about them.
+
+63
+00:02:29.610 --> 00:02:33.010
+And cardinality is all about
+how many possible options
+
+64
+00:02:33.010 --> 00:02:35.120
+there are in a given dimension.
+
+65
+00:02:35.120 --> 00:02:37.890
+With data that's that rich and that deep,
+
+66
+00:02:37.890 --> 00:02:41.390
+you need something seriously
+powerful to deal with it.
+
+67
+00:02:41.390 --> 00:02:43.870
+And that's where machine learning shines.
+
+68
+00:02:43.870 --> 00:02:47.010
+So I want you to get to
+know your company's data.
+
+69
+00:02:47.010 --> 00:02:49.640
+Where is your company now
+regarding dimensionality
+
+70
+00:02:49.640 --> 00:02:50.870
+and cardinality?
+
+71
+00:02:50.870 --> 00:02:53.230
+What additional data could you add
+
+72
+00:02:53.230 --> 00:02:54.960
+that will open up more doors?
+
+73
+00:02:54.960 --> 00:02:57.250
+How can you better understand and expand
+
+74
+00:02:57.250 --> 00:03:00.240
+your data's dimensionality
+and cardinality?
+
+75
+00:03:00.240 --> 00:03:01.073
+Keep this in mind
+
+76
+00:03:01.073 --> 00:03:04.180
+when it's time to talk about
+leveraging marketing data
+
+77
+00:03:04.180 --> 00:03:05.480
+and you'll be better equipped
+
+78
+00:03:05.480 --> 00:03:09.410
+to suggest artificial intelligence
+uses in your own company.
+
+79
+00:03:09.410 --> 00:03:12.120
+Identify when machine
+learning might be overkill
+
+80
+00:03:12.120 --> 00:03:15.573
+and navigate the conversation
+with the data science team.
