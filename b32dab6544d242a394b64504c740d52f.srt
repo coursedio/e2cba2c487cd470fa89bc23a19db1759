@@ -1,0 +1,311 @@
+WEBVTT
+
+1
+00:00:00.310 --> 00:00:02.020
+- Wouldn't machine learning be terrific
+
+2
+00:00:02.020 --> 00:00:06.340
+if it could actually learn,
+like actually learn things
+
+3
+00:00:06.340 --> 00:00:08.860
+about where to spend
+your advertising dollars
+
+4
+00:00:08.860 --> 00:00:12.490
+or which messages are best
+for which type of prospect,
+
+5
+00:00:12.490 --> 00:00:15.080
+or which offers are the most compelling?
+
+6
+00:00:15.080 --> 00:00:16.930
+It only takes a few minutes to learn
+
+7
+00:00:16.930 --> 00:00:20.040
+what reinforcement
+learning can do for you,
+
+8
+00:00:20.040 --> 00:00:22.780
+and that will make you more
+valuable to your company
+
+9
+00:00:22.780 --> 00:00:27.430
+and give your company a decisive
+edge over your competitors.
+
+10
+00:00:27.430 --> 00:00:30.520
+Reinforcement learning is where
+you give the computer a task
+
+11
+00:00:30.520 --> 00:00:33.130
+and a goal and let it
+learn from the results
+
+12
+00:00:33.130 --> 00:00:35.120
+of its own actions.
+
+13
+00:00:35.120 --> 00:00:39.600
+For example, the task:
+improve email subject lines,
+
+14
+00:00:39.600 --> 00:00:42.910
+the goal: get more people
+to open our emails,
+
+15
+00:00:42.910 --> 00:00:45.960
+the action: test a variety
+of email subject lines
+
+16
+00:00:45.960 --> 00:00:48.520
+to find the most effective.
+
+17
+00:00:48.520 --> 00:00:52.040
+The algorithm starts with
+your example subject lines
+
+18
+00:00:52.040 --> 00:00:54.250
+and starts sending out emails.
+
+19
+00:00:54.250 --> 00:00:57.270
+It keeps track of which
+get opened looks at
+
+20
+00:00:57.270 --> 00:00:59.720
+what the successful subject
+lines have in common,
+
+21
+00:00:59.720 --> 00:01:01.940
+and then generates more subject lines
+
+22
+00:01:01.940 --> 00:01:04.220
+that are like the winners.
+
+23
+00:01:04.220 --> 00:01:06.490
+Sounds like something you could use?
+
+24
+00:01:06.490 --> 00:01:08.120
+I want to help you find more ways
+
+25
+00:01:08.120 --> 00:01:10.460
+to incorporate reinforcement learning
+
+26
+00:01:10.460 --> 00:01:12.380
+to make your marketing better.
+
+27
+00:01:12.380 --> 00:01:16.010
+Let's say you want to automate
+product recommendations.
+
+28
+00:01:16.010 --> 00:01:18.330
+If your goal is to get
+people to put more items
+
+29
+00:01:18.330 --> 00:01:21.190
+in their shopping cart, you
+can write a simple program
+
+30
+00:01:21.190 --> 00:01:23.240
+to pop up three product suggestions.
+
+31
+00:01:23.240 --> 00:01:25.750
+When the customer hits
+the shopping cart button,
+
+32
+00:01:25.750 --> 00:01:28.270
+you can brainstorm some really good ideas,
+
+33
+00:01:28.270 --> 00:01:31.067
+like offering a camera case
+and extra memory to somebody
+
+34
+00:01:31.067 --> 00:01:33.690
+who just bought a camera.
+
+35
+00:01:33.690 --> 00:01:35.950
+And you can simply show the classic people
+
+36
+00:01:35.950 --> 00:01:38.200
+who bought this also bought that,
+
+37
+00:01:38.200 --> 00:01:39.760
+but this doesn't scale well
+
+38
+00:01:39.760 --> 00:01:42.250
+when you have thousands of products.
+
+39
+00:01:42.250 --> 00:01:45.000
+That's where reinforcement
+learning comes in.
+
+40
+00:01:45.000 --> 00:01:48.560
+Instead, the algorithm tries a few things
+
+41
+00:01:48.560 --> 00:01:51.080
+and starts to see patterns.
+
+42
+00:01:51.080 --> 00:01:52.520
+It may make no sense that people
+
+43
+00:01:52.520 --> 00:01:55.320
+who buy coffee cups will
+also want to put potholders
+
+44
+00:01:55.320 --> 00:01:59.490
+into their cart, but if it's
+true and the algorithm spots it
+
+45
+00:01:59.490 --> 00:02:03.590
+and offers potholders,
+then your sales go up.
+
+46
+00:02:03.590 --> 00:02:04.770
+Now be careful here
+
+47
+00:02:04.770 --> 00:02:06.790
+because reinforcement learning looks a lot
+
+48
+00:02:06.790 --> 00:02:08.740
+like a child learning to walk.
+
+49
+00:02:08.740 --> 00:02:10.990
+It'll take a step and fall down,
+
+50
+00:02:10.990 --> 00:02:13.680
+and then it'll take two
+steps and fall down,
+
+51
+00:02:13.680 --> 00:02:17.010
+then it'll take four steps and
+run right out into traffic.
+
+52
+00:02:17.010 --> 00:02:19.840
+You know the classic
+entrepreneurial agile command
+
+53
+00:02:19.840 --> 00:02:21.880
+to fail fast?
+
+54
+00:02:21.880 --> 00:02:25.620
+Well, that's what reinforcement
+learning actually does.
+
+55
+00:02:25.620 --> 00:02:27.570
+Unless you set some guide rails
+
+56
+00:02:27.570 --> 00:02:30.330
+at the start, it'll try
+things almost at random
+
+57
+00:02:30.330 --> 00:02:32.240
+and make horrible mistakes,
+
+58
+00:02:32.240 --> 00:02:36.770
+but as soon as it randomly
+succeeds, it has a toehold
+
+59
+00:02:36.770 --> 00:02:39.848
+and then it does better
+and better and better.
+
+60
+00:02:39.848 --> 00:02:43.960
+What tasks are you currently
+farming out to interns?
+
+61
+00:02:43.960 --> 00:02:46.300
+What would you do better or at all
+
+62
+00:02:46.300 --> 00:02:48.750
+if you had a room full of
+interns who could crank
+
+63
+00:02:48.750 --> 00:02:52.064
+through lots of data, really fast?
+
+64
+00:02:52.064 --> 00:02:53.710
+What's on your to-do list
+
+65
+00:02:53.710 --> 00:02:55.730
+that is actually important,
+
+66
+00:02:55.730 --> 00:02:59.310
+but you find so overwhelming
+you never get around to it.
+
+67
+00:02:59.310 --> 00:03:02.860
+Congratulations, you just
+created a list of things
+
+68
+00:03:02.860 --> 00:03:04.330
+that you can turn over
+
+69
+00:03:04.330 --> 00:03:07.253
+to reinforcement learning, well done.
