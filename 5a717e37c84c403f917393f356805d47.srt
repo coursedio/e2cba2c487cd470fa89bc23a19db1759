@@ -1,0 +1,332 @@
+WEBVTT
+
+1
+00:00:00.310 --> 00:00:04.680
+- Artificial Intelligence
+is dumb as a rock,
+
+2
+00:00:04.680 --> 00:00:06.600
+if you don't feed it any data.
+
+3
+00:00:06.600 --> 00:00:07.780
+Worse than a rock.
+
+4
+00:00:07.780 --> 00:00:09.150
+You can throw a rock,
+
+5
+00:00:09.150 --> 00:00:10.760
+build a wall with rocks,
+
+6
+00:00:10.760 --> 00:00:12.970
+crush them up and make
+concrete out of rocks,
+
+7
+00:00:12.970 --> 00:00:15.870
+but AI without data, useless.
+
+8
+00:00:15.870 --> 00:00:20.060
+The problem is, which data
+should you give an AI system?
+
+9
+00:00:20.060 --> 00:00:21.620
+This is your problem,
+
+10
+00:00:21.620 --> 00:00:23.580
+and I can help you with a
+couple of important tips
+
+11
+00:00:23.580 --> 00:00:24.700
+to keep in mind.
+
+12
+00:00:24.700 --> 00:00:27.850
+The first is the Goldilocks problem.
+
+13
+00:00:27.850 --> 00:00:30.740
+If you give the computer
+too little data to chew on,
+
+14
+00:00:30.740 --> 00:00:32.330
+it'll make a snap decision
+
+15
+00:00:32.330 --> 00:00:34.940
+with high confidence that will be wrong.
+
+16
+00:00:34.940 --> 00:00:36.630
+If you give the computer too much,
+
+17
+00:00:36.630 --> 00:00:38.700
+it won't be able to
+make a decision at all.
+
+18
+00:00:38.700 --> 00:00:41.190
+Now when I say too little and too much,
+
+19
+00:00:41.190 --> 00:00:43.010
+I don't mean gigabytes and petabytes,
+
+20
+00:00:43.010 --> 00:00:44.750
+I mean variety.
+
+21
+00:00:44.750 --> 00:00:47.950
+You may have heard of the
+three V's of big data,
+
+22
+00:00:47.950 --> 00:00:51.030
+volume, velocity, variety.
+
+23
+00:00:51.030 --> 00:00:53.410
+Computers are awesome at large quantities
+
+24
+00:00:53.410 --> 00:00:55.620
+or volume of data.
+
+25
+00:00:55.620 --> 00:00:57.100
+You have a billion customers?
+
+26
+00:00:57.100 --> 00:00:58.080
+Not to worry.
+
+27
+00:00:58.080 --> 00:00:59.290
+You have information
+
+28
+00:00:59.290 --> 00:01:01.740
+about them coming at you a mile a minute?
+
+29
+00:01:01.740 --> 00:01:02.573
+Great.
+
+30
+00:01:02.573 --> 00:01:03.961
+Velocity, no problem.
+
+31
+00:01:03.961 --> 00:01:06.680
+But variety is what makes or breaks
+
+32
+00:01:06.680 --> 00:01:08.870
+a machine learning model.
+
+33
+00:01:08.870 --> 00:01:10.290
+If you only know a few things,
+
+34
+00:01:10.290 --> 00:01:11.610
+about a billion people
+
+35
+00:01:11.610 --> 00:01:14.720
+like their name, address and hair color,
+
+36
+00:01:14.720 --> 00:01:16.940
+the computer isn't going to tell you much.
+
+37
+00:01:16.940 --> 00:01:19.300
+Maybe there are more
+blondes in Sweden than Peru,
+
+38
+00:01:19.300 --> 00:01:22.430
+but you didn't need machine
+learning to figure that out.
+
+39
+00:01:22.430 --> 00:01:26.730
+If you know 100 variables
+about each person,
+
+40
+00:01:26.730 --> 00:01:29.500
+the system can find
+fascinating correlations.
+
+41
+00:01:29.500 --> 00:01:31.650
+It can determine what marketplaces
+
+42
+00:01:31.650 --> 00:01:33.500
+are better selling territories,
+
+43
+00:01:33.500 --> 00:01:36.330
+who is receptive to specific offers,
+
+44
+00:01:36.330 --> 00:01:39.360
+which behaviors indicate
+a propensity to buy.
+
+45
+00:01:39.360 --> 00:01:40.900
+Now that's useful.
+
+46
+00:01:40.900 --> 00:01:44.560
+But you can't give the
+computer too many variables.
+
+47
+00:01:44.560 --> 00:01:48.100
+If you give the system
+10,000 bits of information
+
+48
+00:01:48.100 --> 00:01:49.960
+about a billion people,
+
+49
+00:01:49.960 --> 00:01:53.110
+it's all just noise and the
+computer will have no confidence
+
+50
+00:01:53.110 --> 00:01:55.020
+in anything it finds at all.
+
+51
+00:01:55.020 --> 00:01:57.250
+The question you have to answer
+
+52
+00:01:57.250 --> 00:01:59.340
+is which pieces of information
+
+53
+00:01:59.340 --> 00:02:02.250
+are likely to be the most predictive.
+
+54
+00:02:02.250 --> 00:02:04.250
+Add a little here, take away there,
+
+55
+00:02:04.250 --> 00:02:08.269
+until the model that comes
+out actually boosts sales.
+
+56
+00:02:08.269 --> 00:02:11.549
+So how do you know which
+data sets are useful?
+
+57
+00:02:11.549 --> 00:02:13.110
+You don't.
+
+58
+00:02:13.110 --> 00:02:14.020
+Not yet.
+
+59
+00:02:14.020 --> 00:02:15.230
+Not at first.
+
+60
+00:02:15.230 --> 00:02:16.990
+This is a learned skill,
+
+61
+00:02:16.990 --> 00:02:19.030
+that is particular to your industry,
+
+62
+00:02:19.030 --> 00:02:21.270
+your company, your customers,
+
+63
+00:02:21.270 --> 00:02:25.210
+and only you can determine
+that not the computer.
+
+64
+00:02:25.210 --> 00:02:26.840
+What data do you have?
+
+65
+00:02:26.840 --> 00:02:29.490
+What problem are you trying to solve?
+
+66
+00:02:29.490 --> 00:02:31.550
+Start by making a list of the data
+
+67
+00:02:31.550 --> 00:02:35.010
+your company has about your
+customers and prospects.
+
+68
+00:02:35.010 --> 00:02:36.040
+That might be as simple
+
+69
+00:02:36.040 --> 00:02:38.540
+as looking at your sales
+force implementation.
+
+70
+00:02:38.540 --> 00:02:41.680
+Or it might take months to
+ask all the right people.
+
+71
+00:02:41.680 --> 00:02:44.070
+This inventory or data catalog
+
+72
+00:02:44.070 --> 00:02:46.720
+is going to be extremely
+useful no matter what.
+
+73
+00:02:46.720 --> 00:02:50.280
+That list is your raw material.
+
+74
+00:02:50.280 --> 00:02:51.890
+When you review those datasets
+
+75
+00:02:51.890 --> 00:02:55.470
+and get good at identifying
+what might be the most useful
+
+76
+00:02:55.470 --> 00:02:57.770
+for generating predictive models,
+
+77
+00:02:57.770 --> 00:03:00.163
+then there will be no stopping you.
