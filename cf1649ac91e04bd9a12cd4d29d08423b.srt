@@ -1,0 +1,368 @@
+WEBVTT
+
+1
+00:00:00.270 --> 00:00:02.257
+- Arthur C. Clarke famously said,
+
+2
+00:00:02.257 --> 00:00:04.557
+"Any sufficiently advanced technology
+
+3
+00:00:04.557 --> 00:00:06.790
+"is indistinguishable from magic."
+
+4
+00:00:06.790 --> 00:00:09.570
+This couldn't be more true
+for artificial intelligence.
+
+5
+00:00:09.570 --> 00:00:12.820
+AI is so advanced that people
+dedicate entire careers
+
+6
+00:00:12.820 --> 00:00:14.270
+to understanding it.
+
+7
+00:00:14.270 --> 00:00:15.960
+Now, I know what you might be thinking.
+
+8
+00:00:15.960 --> 00:00:18.380
+How do you put machine
+learning to work in marketing
+
+9
+00:00:18.380 --> 00:00:21.760
+if you can't even converse
+with a career data scientist?
+
+10
+00:00:21.760 --> 00:00:23.150
+I want to help you understand
+
+11
+00:00:23.150 --> 00:00:25.290
+what machine learning is in general,
+
+12
+00:00:25.290 --> 00:00:27.790
+how it is different from
+everything that came before it
+
+13
+00:00:27.790 --> 00:00:30.530
+and how different flavors
+of machine learning
+
+14
+00:00:30.530 --> 00:00:33.260
+can solve different kinds of problems
+
+15
+00:00:33.260 --> 00:00:36.860
+so you can start exploring
+where and when to use it.
+
+16
+00:00:36.860 --> 00:00:39.150
+Machine learning is a
+new type of programming,
+
+17
+00:00:39.150 --> 00:00:41.620
+a way of telling the computer
+what you want it to do.
+
+18
+00:00:41.620 --> 00:00:44.570
+We started with COBOL and FORTRAN and C,
+
+19
+00:00:44.570 --> 00:00:48.000
+strict instructions to
+be executed exactly.
+
+20
+00:00:48.000 --> 00:00:50.240
+Next comes mathematical models,
+
+21
+00:00:50.240 --> 00:00:53.450
+simple ones like your budget
+in an Excel spreadsheet.
+
+22
+00:00:53.450 --> 00:00:55.680
+Change the values to play what if games,
+
+23
+00:00:55.680 --> 00:00:57.070
+even change the formulas,
+
+24
+00:00:57.070 --> 00:01:00.870
+which are just short programs
+linked from cell to cell.
+
+25
+00:01:00.870 --> 00:01:04.050
+Beyond that comes predictive analytics.
+
+26
+00:01:04.050 --> 00:01:07.310
+These are handcrafted statistical models
+
+27
+00:01:07.310 --> 00:01:09.500
+built with lots of
+assumptions and tweaking
+
+28
+00:01:09.500 --> 00:01:12.060
+to make a model reflect
+the real world well enough
+
+29
+00:01:12.060 --> 00:01:14.030
+to make predictions.
+
+30
+00:01:14.030 --> 00:01:17.590
+Machine learning is software
+that looks at a pile of data
+
+31
+00:01:17.590 --> 00:01:20.190
+and builds a model based on the data.
+
+32
+00:01:20.190 --> 00:01:22.780
+It looks for patterns and derives rules
+
+33
+00:01:22.780 --> 00:01:25.320
+about the data from the data
+
+34
+00:01:25.320 --> 00:01:28.690
+and uses that to answer
+questions or make predictions.
+
+35
+00:01:28.690 --> 00:01:31.940
+The learning in machine
+learning comes from the fact
+
+36
+00:01:31.940 --> 00:01:34.360
+that it can change its mind.
+
+37
+00:01:34.360 --> 00:01:36.670
+When new data shows up, it reassesses,
+
+38
+00:01:36.670 --> 00:01:37.970
+looks for new patterns
+
+39
+00:01:37.970 --> 00:01:41.620
+and updates its own
+mathematical model of the world.
+
+40
+00:01:41.620 --> 00:01:45.570
+Now, there are three broad
+types of machine learning.
+
+41
+00:01:45.570 --> 00:01:48.120
+The first is supervised learning.
+
+42
+00:01:48.120 --> 00:01:49.860
+This is where you know the answer,
+
+43
+00:01:49.860 --> 00:01:51.770
+give the machine lots and lots of examples
+
+44
+00:01:51.770 --> 00:01:53.480
+and ask it questions like,
+
+45
+00:01:53.480 --> 00:01:56.300
+is this a photo of a dog or a cat?
+
+46
+00:01:56.300 --> 00:01:59.000
+Who out there looks like my best customer?
+
+47
+00:01:59.000 --> 00:02:02.750
+Which of my customers are
+best suited for upselling?
+
+48
+00:02:02.750 --> 00:02:06.100
+Next is unsupervised learning.
+
+49
+00:02:06.100 --> 00:02:08.860
+This is where you ask the
+machine to tell you something
+
+50
+00:02:08.860 --> 00:02:10.230
+that you didn't know.
+
+51
+00:02:10.230 --> 00:02:11.300
+Find a pattern.
+
+52
+00:02:11.300 --> 00:02:14.540
+Show me a correlation I wouldn't
+have thought to look for.
+
+53
+00:02:14.540 --> 00:02:17.500
+And finally, there's
+reinforcement learning.
+
+54
+00:02:17.500 --> 00:02:18.990
+This is a whole different animal.
+
+55
+00:02:18.990 --> 00:02:21.500
+You give the machine a task and a goal
+
+56
+00:02:21.500 --> 00:02:24.930
+and it makes changes
+that improve the outcome.
+
+57
+00:02:24.930 --> 00:02:26.760
+You want more email opens?
+
+58
+00:02:26.760 --> 00:02:29.400
+The machine can crank out
+a bunch of subject lines,
+
+59
+00:02:29.400 --> 00:02:30.960
+see which ones get opened,
+
+60
+00:02:30.960 --> 00:02:33.670
+then creates and tests subject lines
+
+61
+00:02:33.670 --> 00:02:36.160
+that are more like the
+ones that got opened.
+
+62
+00:02:36.160 --> 00:02:39.000
+It learns from its own actions.
+
+63
+00:02:39.000 --> 00:02:40.920
+Do you see the power here?
+
+64
+00:02:40.920 --> 00:02:44.150
+We can teach the machine
+to score prospects
+
+65
+00:02:44.150 --> 00:02:45.640
+based on our customer data
+
+66
+00:02:45.640 --> 00:02:49.130
+or determine what messaging
+would be the best next action
+
+67
+00:02:49.130 --> 00:02:51.740
+or qualify leads for the sales team
+
+68
+00:02:51.740 --> 00:02:53.600
+or predict which prospects
+are the most likely
+
+69
+00:02:53.600 --> 00:02:56.250
+to be high lifetime value customers.
+
+70
+00:02:56.250 --> 00:02:58.860
+Now it can seem pretty daunting
+
+71
+00:02:58.860 --> 00:03:01.130
+to get started using machine learning,
+
+72
+00:03:01.130 --> 00:03:03.890
+but actually it's not that difficult.
+
+73
+00:03:03.890 --> 00:03:06.070
+Here's what I want you to do.
+
+74
+00:03:06.070 --> 00:03:08.670
+Make a list of the tasks
+that software like this
+
+75
+00:03:08.670 --> 00:03:10.730
+might do for your company,
+
+76
+00:03:10.730 --> 00:03:14.080
+what problems it could solve,
+what barriers it could remove,
+
+77
+00:03:14.080 --> 00:03:17.910
+what tasks it might be able to improve.
+
+78
+00:03:17.910 --> 00:03:21.260
+You then prioritize that list
+and start that conversation
+
+79
+00:03:21.260 --> 00:03:24.130
+with your data scientists,
+your consulting agencies,
+
+80
+00:03:24.130 --> 00:03:25.920
+and your technology vendors.
+
+81
+00:03:25.920 --> 00:03:29.390
+Once you have an idea of the
+problems you'd like to solve,
+
+82
+00:03:29.390 --> 00:03:30.680
+you'll be able to take advantage
+
+83
+00:03:30.680 --> 00:03:34.033
+of this magical software
+before you know it.
