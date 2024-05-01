@@ -1,0 +1,356 @@
+WEBVTT
+
+1
+00:00:00.360 --> 00:00:01.760
+- Computers are getting really good
+
+2
+00:00:01.760 --> 00:00:04.190
+at their ability to recognize speech.
+
+3
+00:00:04.190 --> 00:00:07.530
+No, wait, I didn't say rec a nice beach.
+
+4
+00:00:07.530 --> 00:00:08.810
+That's where Natural Language Processing
+
+5
+00:00:08.810 --> 00:00:11.950
+is one of the pillars of
+artificial intelligence.
+
+6
+00:00:11.950 --> 00:00:14.820
+And you can take advantage
+of it once you get a feel
+
+7
+00:00:14.820 --> 00:00:18.050
+for what it is and how it
+can be used for marketing.
+
+8
+00:00:18.050 --> 00:00:21.960
+Natural Language Processing
+includes speech recognition,
+
+9
+00:00:21.960 --> 00:00:25.190
+understanding that this
+(clapping) is just noise,
+
+10
+00:00:25.190 --> 00:00:27.920
+and that these words are speech.
+
+11
+00:00:27.920 --> 00:00:31.080
+And then transferring that speech to text
+
+12
+00:00:31.080 --> 00:00:34.770
+so you can dictate texts
+or searches in your phone,
+
+13
+00:00:34.770 --> 00:00:37.060
+and text comprehension,
+
+14
+00:00:37.060 --> 00:00:40.250
+the art of figuring out
+what your words mean.
+
+15
+00:00:40.250 --> 00:00:42.410
+And finally sentiment analysis,
+
+16
+00:00:42.410 --> 00:00:45.630
+the art of figuring out how you feel.
+
+17
+00:00:45.630 --> 00:00:47.660
+Then there's the problem of slang.
+
+18
+00:00:47.660 --> 00:00:51.810
+If a teenager says that movie
+was sick, it's a winner.
+
+19
+00:00:51.810 --> 00:00:54.950
+But if my 92 year old father says that,
+
+20
+00:00:54.950 --> 00:00:57.090
+the movie had too much violence in it.
+
+21
+00:00:57.090 --> 00:01:00.800
+So where is Natural Language
+Processing useful in marketing?
+
+22
+00:01:00.800 --> 00:01:03.190
+It can capture what your customers say
+
+23
+00:01:03.190 --> 00:01:04.930
+when they talk to you.
+
+24
+00:01:04.930 --> 00:01:08.200
+You can capture every word over
+the phone in the call center
+
+25
+00:01:08.200 --> 00:01:12.220
+then analyze the call log
+for what upsets them the most
+
+26
+00:01:12.220 --> 00:01:16.000
+or uncover which of your
+competitors they ask about.
+
+27
+00:01:16.000 --> 00:01:17.880
+Wouldn't it be great if you could find out
+
+28
+00:01:17.880 --> 00:01:19.370
+which product features your customers
+
+29
+00:01:19.370 --> 00:01:21.350
+complain about the most?
+
+30
+00:01:21.350 --> 00:01:22.580
+You can.
+
+31
+00:01:22.580 --> 00:01:24.720
+Natural language
+processing is also valuable
+
+32
+00:01:24.720 --> 00:01:26.580
+for tracking social media.
+
+33
+00:01:26.580 --> 00:01:29.500
+It can find all the times
+people mentioned your company
+
+34
+00:01:29.500 --> 00:01:33.060
+or product, and based on
+positive or negative words,
+
+35
+00:01:33.060 --> 00:01:36.590
+tell you if people are mostly
+happy or getting more unhappy,
+
+36
+00:01:36.590 --> 00:01:39.070
+same with how they feel
+about your competitors.
+
+37
+00:01:39.070 --> 00:01:42.580
+Natural Language Processing
+is speech recognition
+
+38
+00:01:42.580 --> 00:01:46.390
+that translates speech to
+text and then text to meaning.
+
+39
+00:01:46.390 --> 00:01:49.700
+This is text analysis with smarts.
+
+40
+00:01:49.700 --> 00:01:51.600
+Natural language processing can analyze
+
+41
+00:01:51.600 --> 00:01:54.090
+thousands of internal company emails,
+
+42
+00:01:54.090 --> 00:01:56.420
+marketplace publications,
+academic treatises,
+
+43
+00:01:56.420 --> 00:01:59.040
+and give you specific information
+
+44
+00:01:59.040 --> 00:02:00.800
+rather than just a list of documents
+
+45
+00:02:00.800 --> 00:02:04.180
+that might include something
+that you're looking for.
+
+46
+00:02:04.180 --> 00:02:06.930
+By reading all internal emails,
+
+47
+00:02:06.930 --> 00:02:09.800
+the computer can figure out
+who in your organization
+
+48
+00:02:09.800 --> 00:02:12.730
+gets the most questions
+and has the most answers
+
+49
+00:02:12.730 --> 00:02:14.950
+about a particular topic.
+
+50
+00:02:14.950 --> 00:02:17.690
+It can reveal the important
+passages in newspapers
+
+51
+00:02:17.690 --> 00:02:20.350
+and journals when you're
+researching a new ad campaign
+
+52
+00:02:20.350 --> 00:02:23.760
+or the competition or marketplace trends.
+
+53
+00:02:23.760 --> 00:02:27.180
+Natural Language Processing
+can compare your blog posts
+
+54
+00:02:27.180 --> 00:02:30.030
+and your white papers to your competitors
+
+55
+00:02:30.030 --> 00:02:33.270
+and make recommendations
+about how to improve appeal,
+
+56
+00:02:33.270 --> 00:02:36.180
+readability and Google ranking.
+
+57
+00:02:36.180 --> 00:02:40.700
+This is search engine
+optimization on steroids.
+
+58
+00:02:40.700 --> 00:02:42.450
+So where would Natural Language Processing
+
+59
+00:02:42.450 --> 00:02:44.130
+help you the most?
+
+60
+00:02:44.130 --> 00:02:45.510
+Think about areas in your company
+
+61
+00:02:45.510 --> 00:02:47.340
+where you have a lot of texts.
+
+62
+00:02:47.340 --> 00:02:49.070
+Think about places
+where it would be useful
+
+63
+00:02:49.070 --> 00:02:51.070
+to have the computer read and understand
+
+64
+00:02:51.070 --> 00:02:53.390
+a huge number of pages.
+
+65
+00:02:53.390 --> 00:02:55.360
+Think about the insights
+that you could uncover
+
+66
+00:02:55.360 --> 00:02:56.830
+if only you had a system
+
+67
+00:02:56.830 --> 00:02:58.870
+that could read through
+all of those reports,
+
+68
+00:02:58.870 --> 00:03:00.680
+or all of those survey results,
+
+69
+00:03:00.680 --> 00:03:03.010
+or all of those feedback forms.
+
+70
+00:03:03.010 --> 00:03:06.810
+Think about keeping tabs on
+whether the talk on social media
+
+71
+00:03:06.810 --> 00:03:09.460
+about you is good or bad.
+
+72
+00:03:09.460 --> 00:03:11.220
+When you have that list of the ways
+
+73
+00:03:11.220 --> 00:03:13.470
+that Natural Language Processing can help,
+
+74
+00:03:13.470 --> 00:03:16.920
+score each one for how
+valuable it would be.
+
+75
+00:03:16.920 --> 00:03:19.620
+At that point, you're ready to investigate
+
+76
+00:03:19.620 --> 00:03:22.890
+how hard each one would be to accomplish
+
+77
+00:03:22.890 --> 00:03:24.740
+and how long each one would take.
+
+78
+00:03:24.740 --> 00:03:28.160
+Do that and you can
+easily see which projects
+
+79
+00:03:28.160 --> 00:03:31.810
+are worth the effort and
+which to tackle first.
+
+80
+00:03:31.810 --> 00:03:33.883
+Alexa, turn off the lights.
