@@ -1,0 +1,280 @@
+WEBVTT
+
+1
+00:00:00.260 --> 00:00:01.870
+- Years ago, I worked for a company
+
+2
+00:00:01.870 --> 00:00:05.270
+whose management made
+such weird decisions that
+
+3
+00:00:05.270 --> 00:00:06.560
+about once a week, somebody
+
+4
+00:00:06.560 --> 00:00:09.090
+on the staff would turn
+to the next person,
+
+5
+00:00:09.090 --> 00:00:13.950
+roll their eyes and say, "Logic
+that defies imagination."
+
+6
+00:00:13.950 --> 00:00:16.480
+It was a frustrating place to work.
+
+7
+00:00:16.480 --> 00:00:20.010
+Every organization has its
+own style, manner, culture,
+
+8
+00:00:20.010 --> 00:00:22.940
+political traps, but you can survive
+
+9
+00:00:22.940 --> 00:00:25.620
+and even thrive in bringing
+artificial intelligence
+
+10
+00:00:25.620 --> 00:00:27.050
+into your marketing efforts.
+
+11
+00:00:27.050 --> 00:00:30.890
+In any environment with
+a few key insights.
+
+12
+00:00:30.890 --> 00:00:33.350
+Start by assessing where your company sits
+
+13
+00:00:33.350 --> 00:00:36.570
+on the marketing data literacy spectrum.
+
+14
+00:00:36.570 --> 00:00:41.260
+At one end and are the data
+deniers to our old school
+
+15
+00:00:41.260 --> 00:00:45.600
+mad men types with giant egos
+who know that they're smarter
+
+16
+00:00:45.600 --> 00:00:47.670
+than any data nerd.
+
+17
+00:00:47.670 --> 00:00:48.680
+If your organization is
+
+18
+00:00:48.680 --> 00:00:51.690
+at this end of the spectrum, just get out.
+
+19
+00:00:51.690 --> 00:00:53.380
+Really find another place to work
+
+20
+00:00:53.380 --> 00:00:55.260
+if you're interested in machine learning.
+
+21
+00:00:55.260 --> 00:00:57.330
+But what if the firm is data aware,
+
+22
+00:00:57.330 --> 00:00:59.610
+but not yet data literate?
+
+23
+00:00:59.610 --> 00:01:01.290
+Then they will likely be receptive
+
+24
+00:01:01.290 --> 00:01:04.400
+to lunch and learns
+carefully crafted webinars
+
+25
+00:01:04.400 --> 00:01:07.100
+case studies of how other
+companies have done well.
+
+26
+00:01:07.100 --> 00:01:10.060
+Especially if those case studies
+are about your competitors.
+
+27
+00:01:10.060 --> 00:01:11.240
+If your firm falls more
+
+28
+00:01:11.240 --> 00:01:14.370
+toward the data capable or
+data savvy end of the spectrum
+
+29
+00:01:14.370 --> 00:01:17.010
+lucky you, that means
+they are already using
+
+30
+00:01:17.010 --> 00:01:21.120
+or at least thinking about
+using AI in a variety of ways.
+
+31
+00:01:21.120 --> 00:01:24.770
+And you can show them how
+useful it can be in marketing.
+
+32
+00:01:24.770 --> 00:01:27.190
+Data savvy or just data aware.
+
+33
+00:01:27.190 --> 00:01:31.590
+If nobody has gotten involved
+with AI yet, who has time
+
+34
+00:01:31.590 --> 00:01:35.610
+then it's up to you to bring
+them to the table slowly.
+
+35
+00:01:35.610 --> 00:01:38.290
+Now's your opportunity
+to boost their knowledge
+
+36
+00:01:38.290 --> 00:01:41.070
+of analytics and statistics.
+
+37
+00:01:41.070 --> 00:01:42.770
+Explain the whole thing is the difference
+
+38
+00:01:42.770 --> 00:01:45.360
+between accounting and probability.
+
+39
+00:01:45.360 --> 00:01:48.690
+Accounting is about facts
+expressed with certainty.
+
+40
+00:01:48.690 --> 00:01:50.870
+Statistics is about likelihood
+
+41
+00:01:50.870 --> 00:01:53.950
+expressed as degrees of confidence.
+
+42
+00:01:53.950 --> 00:01:56.460
+How many umbrellas do we
+have is much different
+
+43
+00:01:56.460 --> 00:01:59.330
+than what are the chances
+it's going to rain?
+
+44
+00:01:59.330 --> 00:02:01.560
+When you find those
+people who seem to get it
+
+45
+00:02:01.560 --> 00:02:05.140
+and are interested, it's
+time to start some meetups,
+
+46
+00:02:05.140 --> 00:02:06.840
+casual lunchtime conversations
+
+47
+00:02:06.840 --> 00:02:09.840
+about the possibilities of using AI.
+
+48
+00:02:09.840 --> 00:02:13.300
+Form an informal study
+group and feed them lunch.
+
+49
+00:02:13.300 --> 00:02:14.810
+See who has the curiosity
+
+50
+00:02:14.810 --> 00:02:18.050
+and the time to run some experiments.
+
+51
+00:02:18.050 --> 00:02:20.020
+This is definitely a skunk works
+
+52
+00:02:20.020 --> 00:02:23.500
+seeking forgiveness rather
+than permission kind of thing.
+
+53
+00:02:23.500 --> 00:02:26.367
+Just go do it and learn as you do.
+
+54
+00:02:26.367 --> 00:02:29.740
+This off the record task force
+can start collecting stories
+
+55
+00:02:29.740 --> 00:02:32.370
+and best practices to share with others.
+
+56
+00:02:32.370 --> 00:02:34.130
+Then it'll be time to search
+
+57
+00:02:34.130 --> 00:02:36.230
+for a sponsor, some executive level
+
+58
+00:02:36.230 --> 00:02:38.320
+enthusiast who will support your efforts
+
+59
+00:02:38.320 --> 00:02:39.870
+throw some budget your way
+
+60
+00:02:39.870 --> 00:02:41.810
+and help you make progress.
+
+61
+00:02:41.810 --> 00:02:44.120
+All the while, tell everybody
+
+62
+00:02:44.120 --> 00:02:48.080
+that your goal is to build
+an AI center of excellence.
+
+63
+00:02:48.080 --> 00:02:49.933
+Everybody wants one of those.
