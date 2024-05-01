@@ -1,0 +1,385 @@
+WEBVTT
+
+1
+00:00:00.670 --> 00:00:02.610
+- How would you like to be an AI-powered
+
+2
+00:00:02.610 --> 00:00:03.960
+marketing professional?
+
+3
+00:00:03.960 --> 00:00:07.030
+No, I'm not talking about
+turning you into a cyborg.
+
+4
+00:00:07.030 --> 00:00:09.200
+I'm talking about giving you the skills
+
+5
+00:00:09.200 --> 00:00:11.980
+to harness the power of
+artificial intelligence
+
+6
+00:00:11.980 --> 00:00:14.580
+for yourself, personally,
+
+7
+00:00:14.580 --> 00:00:17.570
+so you can be the one to lead the pack.
+
+8
+00:00:17.570 --> 00:00:19.830
+You'll have a huge advantage
+over others in your company
+
+9
+00:00:19.830 --> 00:00:22.820
+or in the pool of candidates
+vying for that new job.
+
+10
+00:00:22.820 --> 00:00:26.750
+The first step to becoming
+an AI-savvy marketer
+
+11
+00:00:26.750 --> 00:00:29.110
+is blindingly straightforward.
+
+12
+00:00:29.110 --> 00:00:33.600
+Learn about the SQL data
+management programming language.
+
+13
+00:00:33.600 --> 00:00:35.930
+I don't mean that you
+need to learn to code SQL
+
+14
+00:00:35.930 --> 00:00:37.920
+or become a programmer.
+
+15
+00:00:37.920 --> 00:00:39.550
+I mean that you need to understand
+
+16
+00:00:39.550 --> 00:00:41.470
+what it is and how it works.
+
+17
+00:00:41.470 --> 00:00:44.250
+Even just spending an hour
+reading the Wikipedia article
+
+18
+00:00:44.250 --> 00:00:47.970
+about SQL will give you a serious boost.
+
+19
+00:00:47.970 --> 00:00:48.803
+Next,
+
+20
+00:00:48.803 --> 00:00:51.120
+learn the most popular
+marketing automation tools
+
+21
+00:00:51.120 --> 00:00:53.080
+and their AI components.
+
+22
+00:00:53.080 --> 00:00:55.700
+IBM has Watson Marketing Insights,
+
+23
+00:00:55.700 --> 00:00:57.390
+Salesforce has Einstein,
+
+24
+00:00:57.390 --> 00:00:59.340
+Adobe has Sensei.
+
+25
+00:00:59.340 --> 00:01:03.360
+These are AI tools built
+into each marketing platform.
+
+26
+00:01:03.360 --> 00:01:04.960
+You don't need to learn them all,
+
+27
+00:01:04.960 --> 00:01:07.100
+but you should learn one of them.
+
+28
+00:01:07.100 --> 00:01:08.630
+The one your company uses,
+
+29
+00:01:08.630 --> 00:01:11.450
+or the one that you can get
+your hands on the easiest.
+
+30
+00:01:11.450 --> 00:01:13.900
+That'll help you learn any of the others
+
+31
+00:01:13.900 --> 00:01:15.710
+when you come across them.
+
+32
+00:01:15.710 --> 00:01:16.840
+It's like driving,
+
+33
+00:01:16.840 --> 00:01:18.750
+when you apply to be a delivery person.
+
+34
+00:01:18.750 --> 00:01:20.640
+They want to know if you can drive.
+
+35
+00:01:20.640 --> 00:01:22.670
+Whether you learned in a Ford F-150
+
+36
+00:01:22.670 --> 00:01:24.900
+or a Chevy Silverado doesn't matter,
+
+37
+00:01:24.900 --> 00:01:27.180
+so long as you know your
+way around a pick-up.
+
+38
+00:01:27.180 --> 00:01:30.350
+Finally, and this is the sweet spot.
+
+39
+00:01:30.350 --> 00:01:33.820
+Augment yourself with AI tools.
+
+40
+00:01:33.820 --> 00:01:38.390
+Train your own bots to
+enhance the way you work.
+
+41
+00:01:38.390 --> 00:01:40.220
+You use spell check, right?
+
+42
+00:01:40.220 --> 00:01:43.200
+You've been adding unique
+words to your dictionary.
+
+43
+00:01:43.200 --> 00:01:44.480
+This isn't AI,
+
+44
+00:01:44.480 --> 00:01:46.490
+but it is personalized spell check
+
+45
+00:01:46.490 --> 00:01:48.200
+and it's a start.
+
+46
+00:01:48.200 --> 00:01:51.020
+When you write formulas
+in Excel spreadsheets,
+
+47
+00:01:51.020 --> 00:01:54.180
+you are programming it
+to think like you do.
+
+48
+00:01:54.180 --> 00:01:57.010
+Maybe you've even written
+some Excel macros.
+
+49
+00:01:57.010 --> 00:02:00.820
+you are building a library
+of cognitive shortcuts.
+
+50
+00:02:00.820 --> 00:02:01.653
+Now,
+
+51
+00:02:01.653 --> 00:02:04.510
+let's add some AI power to your toolkit.
+
+52
+00:02:04.510 --> 00:02:07.740
+What about an AI meeting scheduler?
+
+53
+00:02:07.740 --> 00:02:11.460
+There are tools that act
+like a personal assistant
+
+54
+00:02:11.460 --> 00:02:12.510
+to arrange a meeting.
+
+55
+00:02:12.510 --> 00:02:13.380
+Doodle poll?
+
+56
+00:02:13.380 --> 00:02:15.230
+Oh, that's so last decade.
+
+57
+00:02:15.230 --> 00:02:17.550
+This AI version looks at your calendar,
+
+58
+00:02:17.550 --> 00:02:20.730
+knows which day has a big
+enough gap in meetings
+
+59
+00:02:20.730 --> 00:02:22.680
+to make it to your favorite
+restaurant and back.
+
+60
+00:02:22.680 --> 00:02:24.650
+And then it negotiates over email
+
+61
+00:02:24.650 --> 00:02:26.150
+with the people you're meeting
+
+62
+00:02:26.150 --> 00:02:27.390
+to set the appointment,
+
+63
+00:02:27.390 --> 00:02:29.040
+and it updates your calendar.
+
+64
+00:02:29.040 --> 00:02:31.020
+There are now auto-complete systems
+
+65
+00:02:31.020 --> 00:02:32.090
+that use machine learning
+
+66
+00:02:32.090 --> 00:02:35.310
+to suggest ways to finish
+sentences you start.
+
+67
+00:02:35.310 --> 00:02:38.620
+Trainable to your writing style.
+
+68
+00:02:38.620 --> 00:02:40.620
+You teach it how you write,
+
+69
+00:02:40.620 --> 00:02:42.750
+and then you can write a lot faster.
+
+70
+00:02:42.750 --> 00:02:46.960
+You train your bots to do
+just about anything your way.
+
+71
+00:02:46.960 --> 00:02:49.360
+Train them to book travel the way you like
+
+72
+00:02:49.360 --> 00:02:51.640
+or manage your expense
+reporting the way you want.
+
+73
+00:02:51.640 --> 00:02:55.990
+Or review contracts for problems
+you know, might be there.
+
+74
+00:02:55.990 --> 00:02:57.900
+So here's what I want you to do.
+
+75
+00:02:57.900 --> 00:03:00.710
+Make a list of all the
+repetitive tasks that you do
+
+76
+00:03:00.710 --> 00:03:03.520
+that you could train an intern to do.
+
+77
+00:03:03.520 --> 00:03:06.330
+That new intern is AI.
+
+78
+00:03:06.330 --> 00:03:07.590
+Do your research.
+
+79
+00:03:07.590 --> 00:03:10.070
+Look around for which
+AI systems specialize
+
+80
+00:03:10.070 --> 00:03:11.170
+in what you're looking for.
+
+81
+00:03:11.170 --> 00:03:14.150
+As they say, there's an app for that.
+
+82
+00:03:14.150 --> 00:03:16.870
+Pick one or two to
+familiarize yourself with,
+
+83
+00:03:16.870 --> 00:03:19.780
+and start training your bots.
+
+84
+00:03:19.780 --> 00:03:23.530
+When you've become a full-fledged
+AI powered professional,
+
+85
+00:03:23.530 --> 00:03:27.530
+list the team of AI agents
+that you have adopted
+
+86
+00:03:27.530 --> 00:03:31.700
+and trained on your resume
+or LinkedIn profile.
+
+87
+00:03:31.700 --> 00:03:33.790
+That shows you are a standout.
+
+88
+00:03:33.790 --> 00:03:36.803
+And the best marketing
+professional for the job.
