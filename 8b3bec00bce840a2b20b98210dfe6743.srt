@@ -1,0 +1,333 @@
+WEBVTT
+
+1
+00:00:00.280 --> 00:00:02.980
+- Artificial intelligence
+is tremendously useful
+
+2
+00:00:02.980 --> 00:00:05.670
+for marketing, and I'm
+glad you're interested.
+
+3
+00:00:05.670 --> 00:00:08.930
+Rest assured that AI is not
+going to take over the world
+
+4
+00:00:08.930 --> 00:00:11.980
+and enslave mankind, it's
+not going to take your job.
+
+5
+00:00:11.980 --> 00:00:13.750
+That's just not going to happen.
+
+6
+00:00:13.750 --> 00:00:17.060
+It is going to take
+over some of your tasks
+
+7
+00:00:17.060 --> 00:00:20.240
+so that you can do your job
+better, faster, and cheaper.
+
+8
+00:00:20.240 --> 00:00:22.860
+But there's some things
+that you need to be aware of
+
+9
+00:00:22.860 --> 00:00:24.890
+when you want to use AI.
+
+10
+00:00:24.890 --> 00:00:26.860
+I can help you avoid
+some of the speed bumps
+
+11
+00:00:26.860 --> 00:00:29.250
+and the potholes in just
+a couple of minutes.
+
+12
+00:00:29.250 --> 00:00:32.867
+Start by remembering what
+economist Leo Cherne said.
+
+13
+00:00:32.867 --> 00:00:37.207
+"Computers are incredibly fast,
+fast, accurate, and stupid,
+
+14
+00:00:37.207 --> 00:00:41.807
+"while humans are slow,
+error-prone, and brilliant.
+
+15
+00:00:41.807 --> 00:00:45.940
+"The marriage of the two is
+a force beyond calculation."
+
+16
+00:00:45.940 --> 00:00:49.020
+Yes, even artificial intelligence is dumb.
+
+17
+00:00:49.020 --> 00:00:50.780
+It can only do what you tell it
+
+18
+00:00:50.780 --> 00:00:53.620
+and it does not know if
+the answer is reasonable.
+
+19
+00:00:53.620 --> 00:00:56.080
+It's really good at telling good from bad,
+
+20
+00:00:56.080 --> 00:00:58.810
+but it hasn't got a clue
+about right from wrong.
+
+21
+00:00:58.810 --> 00:01:02.240
+If you tell the machine that
+you want more email opens,
+
+22
+00:01:02.240 --> 00:01:03.890
+the algorithm might figure out
+
+23
+00:01:03.890 --> 00:01:07.680
+that sending everybody 1,000
+emails gets more of them open.
+
+24
+00:01:07.680 --> 00:01:11.550
+That could be true, but it's
+not helpful, it's not useful.
+
+25
+00:01:11.550 --> 00:01:14.490
+So you have to be very
+clear about your goals
+
+26
+00:01:14.490 --> 00:01:15.850
+with artificial intelligence.
+
+27
+00:01:15.850 --> 00:01:19.340
+What specifically do you
+want it to do for you?
+
+28
+00:01:19.340 --> 00:01:23.480
+Next, you've got to give the
+machine the best data you can.
+
+29
+00:01:23.480 --> 00:01:26.800
+Good data is clean and
+reliable and abundant
+
+30
+00:01:26.800 --> 00:01:29.600
+and of the proper variety.
+
+31
+00:01:29.600 --> 00:01:31.430
+You may have a million customers,
+
+32
+00:01:31.430 --> 00:01:33.250
+but it's the variety of what you know
+
+33
+00:01:33.250 --> 00:01:35.640
+about those customers that matters.
+
+34
+00:01:35.640 --> 00:01:37.540
+Name and address won't tell you very much,
+
+35
+00:01:37.540 --> 00:01:40.430
+but name, address, time
+of day they contact you,
+
+36
+00:01:40.430 --> 00:01:42.620
+and what they look at on your website
+
+37
+00:01:42.620 --> 00:01:46.530
+starts to get predictive of
+what and when they might buy.
+
+38
+00:01:46.530 --> 00:01:49.200
+Too little information is not helpful.
+
+39
+00:01:49.200 --> 00:01:54.070
+The machine will just be
+highly confident, but wrong.
+
+40
+00:01:54.070 --> 00:01:55.830
+Too many data types,
+
+41
+00:01:55.830 --> 00:01:57.650
+and the machine won't be confident at all,
+
+42
+00:01:57.650 --> 00:01:59.440
+it's just all noise.
+
+43
+00:01:59.440 --> 00:02:03.050
+It's up to you to find the
+right assortment of data
+
+44
+00:02:03.050 --> 00:02:06.130
+for the machine to answer
+your questions well.
+
+45
+00:02:06.130 --> 00:02:10.070
+The other troubling thing about
+data is that it is biased.
+
+46
+00:02:10.070 --> 00:02:11.810
+A group of data scientists at Amazon
+
+47
+00:02:11.810 --> 00:02:14.430
+asked the machine to
+filter out the resumes
+
+48
+00:02:14.430 --> 00:02:15.910
+of people who were not likely
+
+49
+00:02:15.910 --> 00:02:19.070
+to be successful Amazon employees.
+
+50
+00:02:19.070 --> 00:02:22.570
+Success was I find based
+on a lot of factors,
+
+51
+00:02:22.570 --> 00:02:24.290
+including the number of promotions,
+
+52
+00:02:24.290 --> 00:02:25.830
+the number of direct reports,
+
+53
+00:02:25.830 --> 00:02:29.440
+glowing reviews, years
+of service, the usual.
+
+54
+00:02:29.440 --> 00:02:34.640
+But the results were a pile of
+resumes of only white males.
+
+55
+00:02:34.640 --> 00:02:37.450
+The bias built into the data
+
+56
+00:02:37.450 --> 00:02:39.890
+uncovered their diversity problems.
+
+57
+00:02:39.890 --> 00:02:42.450
+So Amazon had to throw out that algorithm
+
+58
+00:02:42.450 --> 00:02:45.600
+to guard against future bias.
+
+59
+00:02:45.600 --> 00:02:47.840
+Finally, this is a tool,
+
+60
+00:02:47.840 --> 00:02:50.800
+and all tools can be used for good or ill.
+
+61
+00:02:50.800 --> 00:02:52.770
+Should we be afraid of AI?
+
+62
+00:02:52.770 --> 00:02:53.930
+Not at all.
+
+63
+00:02:53.930 --> 00:02:55.830
+Should we be we afraid of bad actors
+
+64
+00:02:55.830 --> 00:03:00.700
+using AI to defraud people,
+mess with our election process,
+
+65
+00:03:00.700 --> 00:03:02.930
+turn a blind eye to discrimination?
+
+66
+00:03:02.930 --> 00:03:04.670
+Yes, we should.
+
+67
+00:03:04.670 --> 00:03:06.430
+So it's on you to make sure
+
+68
+00:03:06.430 --> 00:03:10.670
+that your projects are
+well-defined, your data is diverse,
+
+69
+00:03:10.670 --> 00:03:11.810
+and that you are making sure
+
+70
+00:03:11.810 --> 00:03:14.270
+the machine doesn't do the
+wrong thing by accident
+
+71
+00:03:14.270 --> 00:03:16.640
+or fall into the wrong hands.
+
+72
+00:03:16.640 --> 00:03:18.490
+Keep those things top of mind
+
+73
+00:03:18.490 --> 00:03:22.430
+and you can use AI to become
+more valuable to your company
+
+74
+00:03:22.430 --> 00:03:24.373
+and make your company more successful.
