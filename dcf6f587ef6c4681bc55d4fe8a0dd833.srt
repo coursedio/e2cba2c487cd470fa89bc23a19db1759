@@ -1,0 +1,319 @@
+WEBVTT
+
+1
+00:00:00.260 --> 00:00:02.350
+- If you're doing any online advertising,
+
+2
+00:00:02.350 --> 00:00:04.630
+you might already be
+using machine learning
+
+3
+00:00:04.630 --> 00:00:06.120
+and just not know it.
+
+4
+00:00:06.120 --> 00:00:08.890
+Programmatic advertising is the norm today
+
+5
+00:00:08.890 --> 00:00:11.320
+because the enormous
+volume of ads on Google
+
+6
+00:00:11.320 --> 00:00:13.460
+and Facebook and Twitter and all the rest.
+
+7
+00:00:13.460 --> 00:00:16.730
+Once you understand how machine
+learning alters the process,
+
+8
+00:00:16.730 --> 00:00:19.400
+you can make better use of
+programmatic advertising
+
+9
+00:00:19.400 --> 00:00:22.500
+and get better results for your ads.
+
+10
+00:00:22.500 --> 00:00:23.500
+In the good old days,
+
+11
+00:00:23.500 --> 00:00:25.390
+you'd check off the traits of the audience
+
+12
+00:00:25.390 --> 00:00:26.330
+you were targeting,
+
+13
+00:00:26.330 --> 00:00:29.400
+age, gender, location, education,
+
+14
+00:00:29.400 --> 00:00:32.170
+and the publishers
+computer would show your ad
+
+15
+00:00:32.170 --> 00:00:34.090
+to the person with those traits.
+
+16
+00:00:34.090 --> 00:00:38.040
+Programmatic means that the
+system does the matching,
+
+17
+00:00:38.040 --> 00:00:40.120
+which is huge because the average person
+
+18
+00:00:40.120 --> 00:00:43.110
+sees something like 5,000 ads everyday.
+
+19
+00:00:43.110 --> 00:00:45.570
+Multiply that by half the
+population on the planet,
+
+20
+00:00:45.570 --> 00:00:48.400
+and it's a lot of ads to serve.
+
+21
+00:00:48.400 --> 00:00:51.540
+It's more efficient for
+you, the advertiser,
+
+22
+00:00:51.540 --> 00:00:55.210
+to go to an intermediary, an ad exchange,
+
+23
+00:00:55.210 --> 00:00:58.000
+and let them figure out
+where to place your ad
+
+24
+00:00:58.000 --> 00:01:00.260
+based on your desired audience traits.
+
+25
+00:01:00.260 --> 00:01:03.320
+You get to choose how much
+you're willing to pay per ad,
+
+26
+00:01:03.320 --> 00:01:04.700
+bidding against others,
+
+27
+00:01:04.700 --> 00:01:07.620
+and how much you're
+willing to spend per day,
+
+28
+00:01:07.620 --> 00:01:08.880
+budget control,
+
+29
+00:01:08.880 --> 00:01:11.430
+and the computers work out the details.
+
+30
+00:01:11.430 --> 00:01:13.260
+With machine learning,
+
+31
+00:01:13.260 --> 00:01:16.820
+you do not choose the audience traits.
+
+32
+00:01:16.820 --> 00:01:19.740
+You choose the desired outcome.
+
+33
+00:01:19.740 --> 00:01:22.620
+You might want your ad to
+generate more click throughs
+
+34
+00:01:22.620 --> 00:01:25.410
+to measure response and awareness
+
+35
+00:01:25.410 --> 00:01:28.350
+or more page views on your site
+because you sell advertising
+
+36
+00:01:28.350 --> 00:01:32.900
+or more people signing up for
+your newsletter or more sales.
+
+37
+00:01:32.900 --> 00:01:35.190
+You ask for the outcome,
+
+38
+00:01:35.190 --> 00:01:38.070
+then you let the machine
+learning algorithm figure out
+
+39
+00:01:38.070 --> 00:01:39.540
+how to make that happen.
+
+40
+00:01:39.540 --> 00:01:42.180
+The algorithm will try
+a variety of your ads
+
+41
+00:01:42.180 --> 00:01:44.920
+to see which ones work
+on which types of people.
+
+42
+00:01:44.920 --> 00:01:46.840
+Now, the interesting part
+
+43
+00:01:46.840 --> 00:01:51.120
+is that types of people are not logical.
+
+44
+00:01:51.120 --> 00:01:53.690
+Women between 18 and 34 in suburbs,
+
+45
+00:01:53.690 --> 00:01:56.120
+whom you think might like your minivan,
+
+46
+00:01:56.120 --> 00:01:58.670
+instead, there are
+people who have something
+
+47
+00:01:58.670 --> 00:02:00.960
+statistically in common with those
+
+48
+00:02:00.960 --> 00:02:03.020
+who performed the desired outcome.
+
+49
+00:02:03.020 --> 00:02:05.390
+It's not logical, it's mathematical.
+
+50
+00:02:05.390 --> 00:02:08.340
+It might not make sense that the people
+
+51
+00:02:08.340 --> 00:02:11.280
+who have this type of computer
+and that kind of browser
+
+52
+00:02:11.280 --> 00:02:13.150
+and read articles about ponies
+
+53
+00:02:13.150 --> 00:02:14.810
+before eight o'clock in the morning
+
+54
+00:02:14.810 --> 00:02:17.200
+are the most likely to buy a minivan.
+
+55
+00:02:17.200 --> 00:02:20.430
+But if they are, the algorithm makes note
+
+56
+00:02:20.430 --> 00:02:23.800
+and finds others like them
+and shows them your ad.
+
+57
+00:02:23.800 --> 00:02:25.890
+Because this is artificial intelligence,
+
+58
+00:02:25.890 --> 00:02:28.470
+that combination of traits and behaviors
+
+59
+00:02:28.470 --> 00:02:30.140
+is not written in stone,
+
+60
+00:02:30.140 --> 00:02:34.070
+instead, it is continuously
+updated profiles
+
+61
+00:02:34.070 --> 00:02:37.560
+of micro segments of your target audience,
+
+62
+00:02:37.560 --> 00:02:41.290
+and there might be hundreds
+or thousands of micro segments
+
+63
+00:02:41.290 --> 00:02:45.000
+being monitored and
+advertised to at any time.
+
+64
+00:02:45.000 --> 00:02:46.950
+So instead of wasting time trying to guess
+
+65
+00:02:46.950 --> 00:02:49.470
+what kind of person might respond,
+
+66
+00:02:49.470 --> 00:02:52.410
+start thinking about the
+different kinds of messages
+
+67
+00:02:52.410 --> 00:02:55.360
+that might resonate with
+different kinds of people,
+
+68
+00:02:55.360 --> 00:02:57.340
+create a variety of ads
+
+69
+00:02:57.340 --> 00:03:00.120
+for the machine to show the whole world
+
+70
+00:03:00.120 --> 00:03:02.190
+and let the algorithm sort out
+
+71
+00:03:02.190 --> 00:03:04.370
+where you should spend your money.
+
+72
+00:03:04.370 --> 00:03:06.310
+That's how you take
+advantage of machine learning
+
+73
+00:03:06.310 --> 00:03:07.773
+and programmatic advertising.
