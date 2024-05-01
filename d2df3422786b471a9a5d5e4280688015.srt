@@ -1,0 +1,110 @@
+WEBVTT
+
+1
+00:00:00.240 --> 00:00:03.740
+- The robots are coming
+to change marketing,
+
+2
+00:00:03.740 --> 00:00:04.860
+and you can work with them
+
+3
+00:00:04.860 --> 00:00:06.800
+and become even more successful,
+
+4
+00:00:06.800 --> 00:00:10.450
+or get crushed under their metal feet.
+
+5
+00:00:10.450 --> 00:00:12.480
+Today artificial intelligence is all hype
+
+6
+00:00:12.480 --> 00:00:14.380
+and little understanding.
+
+7
+00:00:14.380 --> 00:00:15.880
+If you're a marketing professional,
+
+8
+00:00:15.880 --> 00:00:16.960
+you've heard all the buzz,
+
+9
+00:00:16.960 --> 00:00:19.970
+but you probably don't
+know what to believe.
+
+10
+00:00:19.970 --> 00:00:21.720
+In this course, I'm going to bring you
+
+11
+00:00:21.720 --> 00:00:23.950
+from zero to hero in your understanding
+
+12
+00:00:23.950 --> 00:00:26.290
+of how AI and machine learning
+
+13
+00:00:26.290 --> 00:00:29.537
+can be put to use by you in marketing.
+
+14
+00:00:29.537 --> 00:00:30.620
+I'm Jim Sterne.
+
+15
+00:00:30.620 --> 00:00:32.460
+I'm a consultant and co-founder
+
+16
+00:00:32.460 --> 00:00:34.160
+of the Digital Analytics Association
+
+17
+00:00:34.160 --> 00:00:37.950
+and author of "Artificial
+Intelligence for Marketing."
+
+18
+00:00:37.950 --> 00:00:40.560
+In this course, I'm going
+to help you understand
+
+19
+00:00:40.560 --> 00:00:45.320
+what AI is, how machine
+learning is a powerful tool,
+
+20
+00:00:45.320 --> 00:00:46.580
+and how you can integrate it
+
+21
+00:00:46.580 --> 00:00:48.220
+into your marketing initiatives,
+
+22
+00:00:48.220 --> 00:00:49.840
+no matter how big or tech-savvy
+
+23
+00:00:49.840 --> 00:00:52.070
+your company is at the moment.
+
+24
+00:00:52.070 --> 00:00:54.060
+So let's take this first step
+
+25
+00:00:54.060 --> 00:00:55.900
+into this exciting new world.
+
+26
+00:00:55.900 --> 00:00:57.450
+Come start the journey with me.
