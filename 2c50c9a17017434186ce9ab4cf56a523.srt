@@ -1,0 +1,346 @@
+WEBVTT
+
+1
+00:00:00.500 --> 00:00:02.140
+- You've probably been in that meeting
+
+2
+00:00:02.140 --> 00:00:03.917
+where some senior executive says,
+
+3
+00:00:03.917 --> 00:00:06.190
+"Let use machine learning!"
+
+4
+00:00:06.190 --> 00:00:08.960
+like it's the most
+brilliant idea of the year.
+
+5
+00:00:08.960 --> 00:00:12.010
+And you use all of your
+self-control not to roll your eyes
+
+6
+00:00:12.010 --> 00:00:15.770
+and mutter, "Management
+by in-flight magazine."
+
+7
+00:00:15.770 --> 00:00:18.790
+Machine learning may be the
+most powerful software ever,
+
+8
+00:00:18.790 --> 00:00:20.220
+but it's not magic.
+
+9
+00:00:20.220 --> 00:00:22.390
+It's not good at solving all problems.
+
+10
+00:00:22.390 --> 00:00:24.710
+So what do you say?
+
+11
+00:00:24.710 --> 00:00:26.870
+Today, I'm going to help you figure out
+
+12
+00:00:26.870 --> 00:00:28.730
+when machine learning is overkill
+
+13
+00:00:28.730 --> 00:00:31.600
+and when it is the right tool for the job.
+
+14
+00:00:31.600 --> 00:00:33.750
+Remember that machine learning
+
+15
+00:00:33.750 --> 00:00:36.130
+is really good at correlation.
+
+16
+00:00:36.130 --> 00:00:38.670
+People with this trait
+usually have that trait.
+
+17
+00:00:38.670 --> 00:00:40.780
+People with kids buy more cereal.
+
+18
+00:00:40.780 --> 00:00:45.000
+Segmentation, these people
+are more alike than others.
+
+19
+00:00:45.000 --> 00:00:47.970
+They like to log on early in the day.
+
+20
+00:00:47.970 --> 00:00:51.300
+Clustering, there are 10
+distinct groups of people,
+
+21
+00:00:51.300 --> 00:00:52.960
+and you can message them differently.
+
+22
+00:00:52.960 --> 00:00:56.250
+And anomalies, these people are standouts.
+
+23
+00:00:56.250 --> 00:00:58.140
+They don't look like anybody else.
+
+24
+00:00:58.140 --> 00:00:59.810
+There may be something
+wrong with the data,
+
+25
+00:00:59.810 --> 00:01:03.610
+or there might be a business
+opportunity hidden inside.
+
+26
+00:01:03.610 --> 00:01:07.290
+In other words, machine
+learning is good for ranking,
+
+27
+00:01:07.290 --> 00:01:10.900
+sorting, finding patterns,
+finding lookalikes,
+
+28
+00:01:10.900 --> 00:01:13.930
+and finding that needle in a haystack.
+
+29
+00:01:13.930 --> 00:01:16.720
+So you're looking for
+repetitive high-volume tasks
+
+30
+00:01:16.720 --> 00:01:18.710
+with lots and lots of clean data,
+
+31
+00:01:18.710 --> 00:01:21.050
+like social media monitoring.
+
+32
+00:01:21.050 --> 00:01:23.520
+Which of these tweets should
+get a canned response?
+
+33
+00:01:23.520 --> 00:01:25.150
+Which should get reviewed by a human?
+
+34
+00:01:25.150 --> 00:01:26.760
+Which should we just ignore?
+
+35
+00:01:26.760 --> 00:01:30.140
+Or advertising or testing
+or personalization,
+
+36
+00:01:30.140 --> 00:01:32.120
+lead scoring, things like that.
+
+37
+00:01:32.120 --> 00:01:35.210
+The most important step is figuring out
+
+38
+00:01:35.210 --> 00:01:38.470
+if any other method can solve the problem
+
+39
+00:01:38.470 --> 00:01:40.100
+or answer the question.
+
+40
+00:01:40.100 --> 00:01:41.650
+You don't want to fire up an 18-wheeler
+
+41
+00:01:41.650 --> 00:01:43.370
+to run down to the corner store.
+
+42
+00:01:43.370 --> 00:01:45.980
+You don't need a cannon to swat a fly.
+
+43
+00:01:45.980 --> 00:01:47.530
+Machine learning might
+be the coolest thing
+
+44
+00:01:47.530 --> 00:01:49.040
+to hit the management department,
+
+45
+00:01:49.040 --> 00:01:51.410
+but it costs a lot more
+than using a spreadsheet
+
+46
+00:01:51.410 --> 00:01:54.060
+or building a statistical model by hand.
+
+47
+00:01:54.060 --> 00:01:55.860
+Let these key questions be your guide
+
+48
+00:01:55.860 --> 00:01:59.610
+when considering machine
+learning for a given project.
+
+49
+00:01:59.610 --> 00:02:03.030
+Do you have tens of thousands
+or millions of examples?
+
+50
+00:02:03.030 --> 00:02:06.920
+That would be customers or
+transactions or ad placements.
+
+51
+00:02:06.920 --> 00:02:08.580
+Do you have an overwhelming number
+
+52
+00:02:08.580 --> 00:02:11.170
+of combinations of elements?
+
+53
+00:02:11.170 --> 00:02:14.330
+Maybe you have a thousand
+variables or traits
+
+54
+00:02:14.330 --> 00:02:17.530
+about each customer to
+sift through and correlate.
+
+55
+00:02:17.530 --> 00:02:19.350
+Is your data squeaky clean?
+
+56
+00:02:19.350 --> 00:02:21.330
+If not, the cost just went way up
+
+57
+00:02:21.330 --> 00:02:23.940
+because you have to clean it first.
+
+58
+00:02:23.940 --> 00:02:25.870
+Is your data well-labeled?
+
+59
+00:02:25.870 --> 00:02:29.710
+Context is everything.
+Otherwise, it's just noise.
+
+60
+00:02:29.710 --> 00:02:32.200
+Are you sure simpler methods won't work?
+
+61
+00:02:32.200 --> 00:02:33.580
+Try Excel first.
+
+62
+00:02:33.580 --> 00:02:35.890
+Heck, sometimes you could just flip a coin
+
+63
+00:02:35.890 --> 00:02:38.210
+to make some decisions.
+
+64
+00:02:38.210 --> 00:02:40.250
+Do you have clear goals?
+
+65
+00:02:40.250 --> 00:02:42.970
+You need an unmistakable definition
+
+66
+00:02:42.970 --> 00:02:45.470
+of what success looks like.
+
+67
+00:02:45.470 --> 00:02:48.510
+What will you do with the answer?
+
+68
+00:02:48.510 --> 00:02:50.640
+If you could simply Google the answer,
+
+69
+00:02:50.640 --> 00:02:52.600
+would it have an impact on the business?
+
+70
+00:02:52.600 --> 00:02:54.560
+Yes? Good.
+
+71
+00:02:54.560 --> 00:02:56.450
+But what if it cost $50,000
+
+72
+00:02:56.450 --> 00:02:58.630
+and took six weeks to answer the question?
+
+73
+00:02:58.630 --> 00:03:00.940
+Is it still worth it?
+
+74
+00:03:00.940 --> 00:03:03.480
+You bring these questions to the table
+
+75
+00:03:03.480 --> 00:03:06.500
+next time somebody asks if
+they can use machine learning,
+
+76
+00:03:06.500 --> 00:03:07.900
+and you will instantly be seen
+
+77
+00:03:07.900 --> 00:03:10.250
+as the most well-informed
+marketing professional
+
+78
+00:03:10.250 --> 00:03:12.810
+on the planet because this list,
+
+79
+00:03:12.810 --> 00:03:16.190
+it hasn't hit the in-flight magazines yet.
+
+80
+00:03:16.190 --> 00:03:19.293
+And this exercise sheet
+can help you every time.
